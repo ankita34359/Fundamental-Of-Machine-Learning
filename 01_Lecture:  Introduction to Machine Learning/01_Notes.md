@@ -137,3 +137,12 @@ Google Translate: Translates languages in real-time using ML-powered neural netw
 Tesla: Employs ML for autonomous driving and collision avoidance.
 
 Instagram: Prioritizes posts and stories on your feed based on engagement history.
+
+## Summary
+
+In this lecture, we covered:
+
+- The concept of Learning and how machines learn.
+- The definition and workflow of Machine Learning.
+- The importance of ML, focusing on its ability to handle vast amounts of data, automate tasks, and improve decision-making.
+- Real-world applications of ML in various industries.
