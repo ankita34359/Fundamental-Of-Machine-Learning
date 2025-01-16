@@ -123,15 +123,21 @@ Agriculture:
 - Yield prediction: Estimating harvest sizes based on weather and soil data.
   
 ## Emerging Applications of ML
-Natural Language Processing (NLP): Powering virtual assistants like Alexa and Siri.
-Computer Vision: Facial recognition and object detection in images.
-Energy Optimization: Predicting power consumption to optimize energy distribution.
-Real-World Examples of ML in Action
+
+- Natural Language Processing (NLP): Powering virtual assistants like Alexa and Siri.
+- Computer Vision: Facial recognition and object detection in images.
+- Energy Optimization: Predicting power consumption to optimize energy distribution.
+  
+## Real-World Examples of ML in Action
+
 Netflix:
-Uses ML to recommend shows based on viewing history and preferences.
+- Uses ML to recommend shows based on viewing history and preferences.
+
 Google Translate:
-Translates languages in real-time using ML-powered neural networks.
+- Translates languages in real-time using ML-powered neural networks.
+
 Tesla:
-Employs ML for autonomous driving and collision avoidance.
+- Employs ML for autonomous driving and collision avoidance.
+
 Instagram:
-Prioritizes posts and stories on your feed based on engagement history.
+- Prioritizes posts and stories on your feed based on engagement history.
