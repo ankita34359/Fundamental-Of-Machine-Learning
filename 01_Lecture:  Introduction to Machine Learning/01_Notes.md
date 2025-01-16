@@ -71,3 +71,9 @@ Real-Time Adaptability:
 
 - ML models can adapt to changing data in real-time.
 - Example: Fraud detection systems that adapt to new types of fraud.
+
+## Advantages of ML
+
+- **Scalability:** ML models can handle large-scale data with ease.
+- **Accuracy:** ML systems often outperform traditional rule-based systems.
+- **Cost Efficiency:** Once trained, ML models can operate with minimal human intervention.
