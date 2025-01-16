@@ -26,8 +26,11 @@ Machine Learning is the study of algorithms and statistical models that enable m
 ## How  Machine Learning Works
 
 **Input Data:** The machine takes structured or unstructured data as input.
+
 **Training:** It uses algorithms to learn patterns from this data.
+
 **Prediction/Output:** The machine predicts outcomes or classifies new data.
+
 **Feedback:** The machine improves its model based on errors and feedback.
 
 ## Example of Machine Learning in Action
