@@ -23,10 +23,19 @@ Machine Learning is a subset of Artificial Intelligence (AI) that enables comput
 
 Machine Learning is the study of algorithms and statistical models that enable machines to improve their performance on a specific task using data and experience.
 
-## How ML Works
+## How  Machine Learning Works
 
 **Input Data:** The machine takes structured or unstructured data as input.
 **Training:** It uses algorithms to learn patterns from this data.
 **Prediction/Output:** The machine predicts outcomes or classifies new data.
 **Feedback:** The machine improves its model based on errors and feedback.
 
+## Example of Machine Learning in Action
+
+Email Spam Detection:
+
+Input: Emails (data).
+
+Training: Analyze emails labeled as "spam" or "not spam."
+
+Prediction: Classify new emails as "spam" or "not spam."
