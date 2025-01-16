@@ -130,14 +130,10 @@ Agriculture:
   
 ## Real-World Examples of ML in Action
 
-Netflix:
-- Uses ML to recommend shows based on viewing history and preferences.
+Netflix: Uses ML to recommend shows based on viewing history and preferences.
 
-Google Translate:
-- Translates languages in real-time using ML-powered neural networks.
+Google Translate: Translates languages in real-time using ML-powered neural networks.
 
-Tesla:
-- Employs ML for autonomous driving and collision avoidance.
+Tesla: Employs ML for autonomous driving and collision avoidance.
 
-Instagram:
-- Prioritizes posts and stories on your feed based on engagement history.
+Instagram: Prioritizes posts and stories on your feed based on engagement history.
