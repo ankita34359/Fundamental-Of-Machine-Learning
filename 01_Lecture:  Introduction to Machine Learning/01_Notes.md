@@ -11,3 +11,16 @@ Learning refers to the process of acquiring knowledge, skills, or patterns from 
 - Learning involves recognizing patterns, making predictions, or improving performance over time based on data.
 - For example, humans learn to differentiate between cats and dogs by observing their features. Similarly, machines can learn this task using 
         data.
+
+## What is Machine Learning (ML)?
+
+Machine Learning is a subset of Artificial Intelligence (AI) that enables computers to learn from data without being explicitly programmed. It focuses on:
+
+- Learning patterns from data.
+- Making predictions or decisions based on those patterns.
+  
+#### Key Definition:
+
+Machine Learning is the study of algorithms and statistical models that enable machines to improve their performance on a specific task using data and experience.
+
+
